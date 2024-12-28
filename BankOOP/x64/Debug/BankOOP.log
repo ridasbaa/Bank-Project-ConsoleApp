@@ -1,0 +1,59 @@
+﻿  BankOOP.cpp
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsString.h(32,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsString.h(35,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsString.h(236,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsString.h(280,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsString.h(367,10): warning C4101: 'pos': unreferenced local variable
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsString.h(435,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsUser.h(167,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankOOP.cpp')
+  C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsUser.h(25,9):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsInputValidate.h(171,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsBankClient.h(196,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankOOP.cpp')
+  C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsBankClient.h(136,9):
+  see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsBankClient.h(29,144): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsBankClient.h(365,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsBankClient.h(377,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsAddNewClientScreen.h(32,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsUpdateClientScreen.h(31,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsTotalBalancesScreen.h(51,49): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsUpdateCurrencyRate.h(56,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsCurrencyCalculator.h(47,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankOOP.cpp')
+  
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsBankClient.h(315,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\BankOOP\clsUser.h(311,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankOOP.vcxproj -> C:\Users\REDA\OneDrive\Desktop\C++ OOP Ptoject\BankOOP\x64\Debug\BankOOP.exe
